@@ -1,4 +1,4 @@
-from: git-prod-1.0
+from: git-prod-2.0
 spring:
   datasource:
     doc:
