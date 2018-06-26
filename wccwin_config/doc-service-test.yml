@@ -1,4 +1,4 @@
-from: git-test-1.0
+from: git-test-1.0_change2
 spring:
   datasource:
     doc:
